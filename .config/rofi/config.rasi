@@ -16,4 +16,4 @@ configuration{
 
 //@theme "catppuccin-mocha"
 
-@theme "/home/fedorausr/.local/share/rofi/themes/catppuccin-mocha.rasi"
+@theme "~/.local/share/rofi/themes/catppuccin-mocha.rasi"
